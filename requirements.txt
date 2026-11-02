@@ -1,0 +1,4 @@
+torch>=2.0
+matplotlib>=3.7
+pytest>=7.0
+notebook>=7.0
